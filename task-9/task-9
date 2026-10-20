@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Wikipedia-logo-v2-en-25-alt.svg/1280px-Wikipedia-logo-v2-en-25-alt.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        width="200px">
+        <h3 style="font-display:center;"> <label for="search"></label>
+        <input type="search" id="search" placeholder="search" ></h3>
+    <h3>content</h3>
+    </nav>
+
+    <nav> <a href="https://en.wikipedia.org/wiki/HTML#History">history</a></nav>
+    <nav><a href="https://en.wikipedia.org/wiki/HTML#Development">DEVELOMENT</a></nav>
+    <nav> <a href="https://en.wikipedia.org/wiki/HTML#HTML_version_timeline">HTML-VERSION-TIMELINE</a>  </nav><nav></nav> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOlF5VQ7hUHTVWV0h2ntwCEcYvC1zdmTRwsLt04Ve6A&s">
+      </nav>
+    <nav> <a href="https://en.wikipedia.org/wiki/HTML#HTML_draft_version_timeline">HTML-DRAFT-VERSION-TIMELINE</a></nav>
+    <nav> <a
+            href="https://en.wikipedia.org/wiki/HTML#Transition_of_HTML_publication_to_WHATWG">TRANSITION-OF-HTML-PUBLICATION</a>
+    </nav>
+    <nav> <a href="https://en.wikipedia.org/wiki/HTML#Markup">MARKUP</a></nav>
+    <a href="https://en.wikipedia.org/wiki/HTML#Delivery">DELIVERY</a>
+    <seaction>
+        <p>Hypertext Markup Language (HTML) is the standard <a href="https://en.wikipedia.org/wiki/Markup_language" > markup language[a]</a> for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
+<a href="https://en.wikipedia.org/wiki/Web_browser" >Web browsers </a>receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for its appearance.
+
+HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes, and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as <img> and <input> directly introduce content into the page. Other tags such as <p> and its corresponding closing tag </p> surround and provide information about document text and may include sub-element tags. Browsers do not display the HTML tags, but use them to interpret the content of the page.
+
+HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. The inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.[3]</p>
+    </seaction>
+
+
+
+</body>
+
+</html>
